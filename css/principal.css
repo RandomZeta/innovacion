@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.label.label-primary {
+	margin-left: 5px;
+	color: #FFFFFF;
+	font-size: 18px;
+	padding-top: 5px;
+
+}
+.container-fluid-noticias {
+	width: 235px;
+	height: 30px;
+	padding-bottom: 0px;
+	margin-left: -50px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.label.label-warning {
+	margin-left: 5px;
+	color: #FFFFFF;
+	font-size: 18px;
+	padding-top: 5px;
+}

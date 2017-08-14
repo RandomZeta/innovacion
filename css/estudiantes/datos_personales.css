@@ -1,0 +1,43 @@
+.container-fluid-input   {
+	width: 200px;
+	margin-left: 300px;
+	margin-top: 45px;
+	background-color: #DCDCDC;
+	text-align: center;
+	border-radius: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	float: left;
+	padding-right: 10px;
+	padding-left: 10px;
+
+}
+
+.label.label-primary {
+	font-size: medium;
+	margin-left: 0px;
+}
+.label.label-default {
+	display: block;
+}
+
+
+
+.container-fluid-input2 {
+	width: 200px;
+	margin-left: 0px;
+	margin-top: 45px;
+	background-color: #DCDCDC;
+	border-radius: 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	float: right;
+	margin-right: 300px;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+}
+.panel.panel-info.col-sm-7 {
+	text-align: left;
+	margin-left: 300px;
+}
